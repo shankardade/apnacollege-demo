@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my git repo
 <br>
-Author-kishore DSV
+Author-kishore DSV(Apna College)
